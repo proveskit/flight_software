@@ -15,8 +15,9 @@ from debugcolor import co
 import gc
 
 # Hardware Specific Libs
-import pysquared_rfm9x  # Radio
-import neopixel         # RGB LED
+import pysquared_rfm9x                          # Radio
+import neopixel                                 # RGB LED
+from adafruit_mcp2515 import MCP2515 as CAN     # CAN Bus Transceiver
 
 # Common CircuitPython Libs
 from os import listdir,stat,statvfs,mkdir,chdir
@@ -103,6 +104,7 @@ class Satellite:
                        'PWR':    False,
                        'FLD':    False,
                        'TEMP':   False,
+                       'CAN':    False,
                        'Face0':  False,
                        'Face1':  False,
                        'Face2':  False,
@@ -110,7 +112,7 @@ class Satellite:
                        'Face4':  False,
                        }
 
-        # Define SPI,I2C,UART | paasing I2C1 to BigData
+        # Define SPI,I2C,UART
         try:
             self.i2c0 = busio.I2C(board.I2C0_SCL,board.I2C0_SDA,timeout=5)
             self.spi0 = busio.SPI(board.SPI0_SCK,board.SPI0_MOSI,board.SPI0_MISO)
@@ -193,6 +195,17 @@ class Satellite:
         except Exception as e:
             self.debug_print('[ERROR][RADIO 1]' + ''.join(traceback.format_exception(e)))
 
+        # Initialize CAN Transceiver
+        try:
+            self.spi0cs2 = digitalio.DigitalInOut(board.SPI0_CS2)
+            self.spi0cs2.switch_to_output()
+            self.can_bus = CAN(self.spi0, self.spi0cs2, loopback=True, silent=True)
+            self.hardware['CAN'] = True
+
+        except Exception as e:
+            self.debug_print("[ERROR][CAN TRANSCEIVER]" + ''.join(traceback.format_exception(e)))
+
+        
         # Prints init state of PySquared hardware
         self.debug_print(str(self.hardware))
 

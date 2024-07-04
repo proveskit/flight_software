@@ -14,14 +14,12 @@ from debugcolor import co
 import gc
 
 # Hardware Specific Libs
-import neopixel         # RGB LED
-import adafruit_pca9685 # LED Driver
-import adafruit_tca9548a # I2C Multiplexer
-import adafruit_pct2075 # Temperature Sensor
-import adafruit_ina219  # Power Monitor
-
-# CAN Bus Import
-from adafruit_mcp2515 import MCP2515 as CAN
+import neopixel                             # RGB LED
+import adafruit_pca9685                     # LED Driver
+import adafruit_tca9548a                    # I2C Multiplexer
+import adafruit_pct2075                     # Temperature Sensor
+import adafruit_ina219                      # Power Monitor
+from adafruit_mcp2515 import MCP2515 as CAN # CAN Bus Transceiver
 
 # Common CircuitPython Libs
 from os import listdir,stat,statvfs,mkdir,chdir
