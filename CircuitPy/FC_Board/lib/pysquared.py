@@ -220,9 +220,7 @@ class Satellite:
             self.debug_print('Invalid Device? ->' + str(dev))
 
 
-    '''
-    Code to toggle on / off individual faces
-    '''
+
     @property
     def burnarm(self):
         return self.f_burnarm
