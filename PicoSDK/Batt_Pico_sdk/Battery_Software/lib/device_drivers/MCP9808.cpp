@@ -15,7 +15,7 @@ float MCP9808::readTemperature() {
     uint16_t rawTemperature = readRegister(0x05);
     // MCP9808 temperature is in 13-bit format with a resolution of 0.0625 degrees Celsius per LSB
     float temperature = static_cast<float>(rawTemperature & 0x0FFF) * 0.0625f;
-    
+
     // Check sign bit (bit 12)
     if (rawTemperature & 0x1000) {
         // Temperature is negative, apply two's complement

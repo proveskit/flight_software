@@ -1,14 +1,14 @@
 {
-	"artifacts" : 
+	"artifacts" :
 	[
 		{
 			"path" : "pico-sdk/src/rp2_common/boot_stage2/bs2_default.elf"
 		}
 	],
 	"backtrace" : 2,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_executable",
 			"pico_define_boot_stage2",
@@ -17,12 +17,12 @@
 			"target_link_libraries",
 			"target_include_directories"
 		],
-		"files" : 
+		"files" :
 		[
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/CMakeLists.txt"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 0
@@ -83,16 +83,16 @@
 			}
 		]
 	},
-	"compileGroups" : 
+	"compileGroups" :
 	[
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 8,
@@ -111,7 +111,7 @@
 					"define" : "PICO_ON_DEVICE=1"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 9,
@@ -147,16 +147,16 @@
 				}
 			],
 			"language" : "ASM",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0
 			]
 		}
 	],
 	"id" : "bs2_default::@bc554eaed616d198a22d",
-	"link" : 
+	"link" :
 	{
-		"commandFragments" : 
+		"commandFragments" :
 		[
 			{
 				"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g",
@@ -191,22 +191,22 @@
 	},
 	"name" : "bs2_default",
 	"nameOnDisk" : "bs2_default.elf",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "pico-sdk/src/rp2_common/boot_stage2",
 		"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 2,

@@ -1,18 +1,18 @@
 {
 	"backtrace" : 2,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_custom_target",
 			"pico_define_boot_stage2",
 			"add_custom_command"
 		],
-		"files" : 
+		"files" :
 		[
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 0
@@ -37,7 +37,7 @@
 			}
 		]
 	},
-	"dependencies" : 
+	"dependencies" :
 	[
 		{
 			"backtrace" : 3,
@@ -46,30 +46,30 @@
 	],
 	"id" : "bs2_default_bin::@bc554eaed616d198a22d",
 	"name" : "bs2_default_bin",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "pico-sdk/src/rp2_common/boot_stage2",
 		"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0
 			]
 		},
 		{
 			"name" : "CMake Rules",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				1,
 				2
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 2,

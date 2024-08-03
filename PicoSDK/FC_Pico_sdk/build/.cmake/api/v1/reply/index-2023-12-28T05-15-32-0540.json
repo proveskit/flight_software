@@ -1,19 +1,19 @@
 {
-	"cmake" : 
+	"cmake" :
 	{
-		"generator" : 
+		"generator" :
 		{
 			"multiConfig" : false,
 			"name" : "Ninja"
 		},
-		"paths" : 
+		"paths" :
 		{
 			"cmake" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/cmake/bin/cmake.exe",
 			"cpack" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/cmake/bin/cpack.exe",
 			"ctest" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/cmake/bin/ctest.exe",
 			"root" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/cmake/share/cmake-3.25"
 		},
-		"version" : 
+		"version" :
 		{
 			"isDirty" : false,
 			"major" : 3,
@@ -23,12 +23,12 @@
 			"suffix" : ""
 		}
 	},
-	"objects" : 
+	"objects" :
 	[
 		{
 			"jsonFile" : "codemodel-v2-d167d03c4aeb324c793a.json",
 			"kind" : "codemodel",
-			"version" : 
+			"version" :
 			{
 				"major" : 2,
 				"minor" : 4
@@ -37,7 +37,7 @@
 		{
 			"jsonFile" : "cache-v2-d6d0a6d37ed5c65ab88d.json",
 			"kind" : "cache",
-			"version" : 
+			"version" :
 			{
 				"major" : 2,
 				"minor" : 0
@@ -46,7 +46,7 @@
 		{
 			"jsonFile" : "cmakeFiles-v1-035d3973a895fbb5f5b9.json",
 			"kind" : "cmakeFiles",
-			"version" : 
+			"version" :
 			{
 				"major" : 1,
 				"minor" : 0
@@ -55,20 +55,20 @@
 		{
 			"jsonFile" : "toolchains-v1-51066bc5eb008415b332.json",
 			"kind" : "toolchains",
-			"version" : 
+			"version" :
 			{
 				"major" : 1,
 				"minor" : 0
 			}
 		}
 	],
-	"reply" : 
+	"reply" :
 	{
-		"client-vscode" : 
+		"client-vscode" :
 		{
-			"query.json" : 
+			"query.json" :
 			{
-				"requests" : 
+				"requests" :
 				[
 					{
 						"kind" : "cache",
@@ -87,12 +87,12 @@
 						"version" : 1
 					}
 				],
-				"responses" : 
+				"responses" :
 				[
 					{
 						"jsonFile" : "cache-v2-d6d0a6d37ed5c65ab88d.json",
 						"kind" : "cache",
-						"version" : 
+						"version" :
 						{
 							"major" : 2,
 							"minor" : 0
@@ -101,7 +101,7 @@
 					{
 						"jsonFile" : "codemodel-v2-d167d03c4aeb324c793a.json",
 						"kind" : "codemodel",
-						"version" : 
+						"version" :
 						{
 							"major" : 2,
 							"minor" : 4
@@ -110,7 +110,7 @@
 					{
 						"jsonFile" : "toolchains-v1-51066bc5eb008415b332.json",
 						"kind" : "toolchains",
-						"version" : 
+						"version" :
 						{
 							"major" : 1,
 							"minor" : 0
@@ -119,7 +119,7 @@
 					{
 						"jsonFile" : "cmakeFiles-v1-035d3973a895fbb5f5b9.json",
 						"kind" : "cmakeFiles",
-						"version" : 
+						"version" :
 						{
 							"major" : 1,
 							"minor" : 0

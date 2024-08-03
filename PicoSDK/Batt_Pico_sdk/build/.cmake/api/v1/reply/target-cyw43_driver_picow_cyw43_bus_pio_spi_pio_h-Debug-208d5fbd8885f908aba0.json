@@ -1,18 +1,18 @@
 {
 	"backtrace" : 2,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_custom_target",
 			"pico_generate_pio_header"
 		],
-		"files" : 
+		"files" :
 		[
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/tools/CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeLists.txt"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 1
@@ -33,30 +33,30 @@
 	},
 	"id" : "cyw43_driver_picow_cyw43_bus_pio_spi_pio_h::@c2fb4f534018e64680d5",
 	"name" : "cyw43_driver_picow_cyw43_bus_pio_spi_pio_h",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "pico-sdk/src/rp2_common/pico_cyw43_driver",
 		"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/pico_cyw43_driver"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0
 			]
 		},
 		{
 			"name" : "CMake Rules",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				1,
 				2
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 2,

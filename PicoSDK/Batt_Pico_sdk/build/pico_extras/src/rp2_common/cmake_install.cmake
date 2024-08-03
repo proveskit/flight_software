@@ -51,4 +51,3 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/Batt_Pico_sdk/build/pico_extras/src/rp2_common/usb_device_msc/cmake_install.cmake")
 
 endif()
-
