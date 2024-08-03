@@ -46,4 +46,3 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/FC_Pico_sdk/build/pico_extras/src/common/platypus/cmake_install.cmake")
 
 endif()
-

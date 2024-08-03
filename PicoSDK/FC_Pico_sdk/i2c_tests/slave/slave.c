@@ -17,8 +17,8 @@ static const uint I2C_BAUDRATE = 400000; // 400 kHz
 #ifdef i2c_default
 // For this example, we run both the master and slave from the same board.
 // You'll need to wire pin GP4 to GP6 (SDA), and pin GP5 to GP7 (SCL).
-static const uint I2C_SLAVE_SDA_PIN = 2; 
-static const uint I2C_SLAVE_SCL_PIN = 3; 
+static const uint I2C_SLAVE_SDA_PIN = 2;
+static const uint I2C_SLAVE_SCL_PIN = 3;
 static const uint I2C_MASTER_SDA_PIN = 6;
 static const uint I2C_MASTER_SCL_PIN = 7;
 
@@ -93,6 +93,6 @@ int main() {
         printf("I am waiting for stuff to happen!");
         sleep_ms(1000);
     }
-    
+
 #endif
 }

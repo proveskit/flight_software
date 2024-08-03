@@ -43,4 +43,3 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/FC_Pico_sdk/build/i2c_tests/slave/cmake_install.cmake")
 
 endif()
-

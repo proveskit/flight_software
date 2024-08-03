@@ -43,4 +43,3 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/Batt_Pico_sdk/build/pico-sdk/src/rp2040/hardware_structs/cmake_install.cmake")
 
 endif()
-

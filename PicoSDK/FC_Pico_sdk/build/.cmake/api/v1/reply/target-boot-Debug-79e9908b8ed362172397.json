@@ -1,14 +1,14 @@
 {
-	"artifacts" : 
+	"artifacts" :
 	[
 		{
 			"path" : "Flight_Software/boot/boot.elf"
 		}
 	],
 	"backtrace" : 1,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_executable",
 			"target_link_libraries",
@@ -22,7 +22,7 @@
 			"pico_add_extra_outputs",
 			"target_include_directories"
 		],
-		"files" : 
+		"files" :
 		[
 			"Flight_Software/boot/CMakeLists.txt",
 			"Flight_Software/lib/CMakeLists.txt",
@@ -33,7 +33,7 @@
 			"example_auto_set_url.cmake",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common.cmake"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 0
@@ -163,10 +163,10 @@
 			}
 		]
 	},
-	"compileGroups" : 
+	"compileGroups" :
 	[
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -207,7 +207,7 @@
 					"fragment" : "-std=gnu++17"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 2,
@@ -386,7 +386,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 22,
@@ -586,22 +586,22 @@
 				}
 			],
 			"language" : "CXX",
-			"languageStandard" : 
+			"languageStandard" :
 			{
-				"backtraces" : 
+				"backtraces" :
 				[
 					1
 				],
 				"standard" : "17"
 			},
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0,
 				42
 			]
 		},
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -634,7 +634,7 @@
 					"fragment" : "-std=gnu11"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 2,
@@ -813,7 +813,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 22,
@@ -1013,15 +1013,15 @@
 				}
 			],
 			"language" : "C",
-			"languageStandard" : 
+			"languageStandard" :
 			{
-				"backtraces" : 
+				"backtraces" :
 				[
 					1
 				],
 				"standard" : "11"
 			},
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				1,
 				2,
@@ -1085,7 +1085,7 @@
 			]
 		},
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -1115,7 +1115,7 @@
 					"fragment" : "-fdata-sections"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 2,
@@ -1294,7 +1294,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 22,
@@ -1494,7 +1494,7 @@
 				}
 			],
 			"language" : "ASM",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				7,
 				24,
@@ -1510,7 +1510,7 @@
 			]
 		}
 	],
-	"dependencies" : 
+	"dependencies" :
 	[
 		{
 			"backtrace" : 9,
@@ -1546,9 +1546,9 @@
 		}
 	],
 	"id" : "boot::@125635358e8d64972416",
-	"link" : 
+	"link" :
 	{
-		"commandFragments" : 
+		"commandFragments" :
 		[
 			{
 				"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g",
@@ -2428,16 +2428,16 @@
 	},
 	"name" : "boot",
 	"nameOnDisk" : "boot.elf",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "Flight_Software/boot",
 		"source" : "Flight_Software/boot"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "Source Files",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0,
 				1,
@@ -2504,7 +2504,7 @@
 		},
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				7,
 				24,
@@ -2520,7 +2520,7 @@
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 1,

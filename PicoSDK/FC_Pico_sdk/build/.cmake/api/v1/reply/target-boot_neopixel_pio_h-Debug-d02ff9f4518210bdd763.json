@@ -1,18 +1,18 @@
 {
 	"backtrace" : 2,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_custom_target",
 			"pico_generate_pio_header"
 		],
-		"files" : 
+		"files" :
 		[
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/tools/CMakeLists.txt",
 			"Flight_Software/boot/CMakeLists.txt"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 1
@@ -33,30 +33,30 @@
 	},
 	"id" : "boot_neopixel_pio_h::@125635358e8d64972416",
 	"name" : "boot_neopixel_pio_h",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "Flight_Software/boot",
 		"source" : "Flight_Software/boot"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0
 			]
 		},
 		{
 			"name" : "CMake Rules",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				1,
 				2
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 2,

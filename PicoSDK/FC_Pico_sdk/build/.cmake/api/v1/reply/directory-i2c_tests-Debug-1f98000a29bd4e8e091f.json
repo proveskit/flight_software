@@ -1,12 +1,12 @@
 {
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
 		"commands" : [],
 		"files" : [],
 		"nodes" : []
 	},
 	"installers" : [],
-	"paths" : 
+	"paths" :
 	{
 		"build" : "i2c_tests",
 		"source" : "i2c_tests"

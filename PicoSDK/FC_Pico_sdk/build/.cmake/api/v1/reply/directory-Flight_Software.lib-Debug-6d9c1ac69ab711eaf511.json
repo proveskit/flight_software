@@ -1,12 +1,12 @@
 {
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
 		"commands" : [],
 		"files" : [],
 		"nodes" : []
 	},
 	"installers" : [],
-	"paths" : 
+	"paths" :
 	{
 		"build" : "Flight_Software/lib",
 		"source" : "Flight_Software/lib"

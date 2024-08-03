@@ -99,4 +99,3 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/FC_Pico_sdk/build/pico-sdk/src/rp2_common/pico_runtime/cmake_install.cmake")
 
 endif()
-

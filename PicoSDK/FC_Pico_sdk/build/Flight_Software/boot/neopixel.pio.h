@@ -21,10 +21,10 @@
 
 static const uint16_t neopixel_program_instructions[] = {
             //     .wrap_target
-    0x6221, //  0: out    x, 1            side 0 [2] 
-    0x1123, //  1: jmp    !x, 3           side 1 [1] 
-    0x1400, //  2: jmp    0               side 1 [4] 
-    0xa442, //  3: nop                    side 0 [4] 
+    0x6221, //  0: out    x, 1            side 0 [2]
+    0x1123, //  1: jmp    !x, 3           side 1 [1]
+    0x1400, //  2: jmp    0               side 1 [4]
+    0xa442, //  3: nop                    side 0 [4]
             //     .wrap
 };
 
@@ -58,4 +58,3 @@ static inline void neopixel_program_init(PIO pio, uint sm, uint offset, uint pin
 }
 
 #endif
-

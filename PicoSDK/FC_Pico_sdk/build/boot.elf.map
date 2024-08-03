@@ -2793,7 +2793,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.gpio_init
                 0x10000600       0x16 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_gpio/gpio.c.obj
                 0x10000600                gpio_init
- *fill*         0x10000616        0x2 
+ *fill*         0x10000616        0x2
  .text.running_on_fpga
                 0x10000618       0x14 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_platform/platform.c.obj
                 0x10000618                running_on_fpga
@@ -2809,7 +2809,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.hw_claim_unused_from_range
                 0x1000068a       0x50 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_claim/claim.c.obj
                 0x1000068a                hw_claim_unused_from_range
- *fill*         0x100006da        0x2 
+ *fill*         0x100006da        0x2
  .text.spin_locks_reset
                 0x100006dc       0x20 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
                 0x100006dc                spin_locks_reset
@@ -2834,7 +2834,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.irq_set_enabled
                 0x10000820        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
                 0x10000820                irq_set_enabled
- *fill*         0x1000082e        0x2 
+ *fill*         0x1000082e        0x2
  .text.irq_set_pending
                 0x10000830       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
                 0x10000830                irq_set_pending
@@ -2888,7 +2888,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10000f38       0xa4 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
  .text.ph_merge_nodes
                 0x10000fdc       0x3e Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x1000101a        0x2 
+ *fill*         0x1000101a        0x2
  .text.add_alarm_under_lock
                 0x1000101c      0x174 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
  .text.alarm_pool_alarm_callback
@@ -2952,14 +2952,14 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10001cd0       0xa4 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
  .text.ph_merge_nodes
                 0x10001d74       0x3e Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
- *fill*         0x10001db2        0x2 
+ *fill*         0x10001db2        0x2
  .text.ph_clear
                 0x10001db4       0x70 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
                 0x10001db4                ph_clear
  .text.ph_post_alloc_init
                 0x10001e24        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
                 0x10001e24                ph_post_alloc_init
- *fill*         0x10001e32        0x2 
+ *fill*         0x10001e32        0x2
  .text.ph_merge_two_pass
                 0x10001e34       0xa8 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
                 0x10001e34                ph_merge_two_pass
@@ -3031,7 +3031,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x100028fc       0xbc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ntoa_long_long
                 0x100029b8       0xe2 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- *fill*         0x10002a9a        0x2 
+ *fill*         0x10002a9a        0x2
  .text._etoa    0x10002a9c      0x414 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._ftoa    0x10002eb0      0x354 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .text._vsnprintf
@@ -3052,7 +3052,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.rom_funcs_lookup
                 0x100038a0       0x36 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bootrom/bootrom.c.obj
                 0x100038a0                rom_funcs_lookup
- *fill*         0x100038d6        0x2 
+ *fill*         0x100038d6        0x2
  .text.__wrap___aeabi_idiv
                 0x100038d8       0x50 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_divider/divider.S.obj
                 0x100038d8                __wrap___aeabi_idivmod
@@ -3107,7 +3107,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.__wrap___aeabi_dcmpun
                 0x10003eba       0x1c Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
                 0x10003eba                __wrap___aeabi_dcmpun
- *fill*         0x10003ed6        0x2 
+ *fill*         0x10003ed6        0x2
  .text.__wrap___aeabi_i2d
                 0x10003ed8       0x38 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_aeabi.S.obj
                 0x10003ed8                __wrap___aeabi_ui2d
@@ -3146,7 +3146,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x100044fc        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
                 0x100044fc                double2uint_shim
                 0x100044fe                double2ufix_shim
- *fill*         0x1000450a        0x2 
+ *fill*         0x1000450a        0x2
  .text.double2uint64_shim
                 0x1000450c       0x70 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_double/double_v1_rom_shim.S.obj
                 0x1000450c                double2uint64_shim
@@ -3161,7 +3161,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.__aeabi_lmul
                 0x10004614       0x32 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_int64_ops/pico_int64_ops_aeabi.S.obj
                 0x10004614                __wrap___aeabi_lmul
- *fill*         0x10004646        0x2 
+ *fill*         0x10004646        0x2
  .text.__wrap___aeabi_farithmetic
                 0x10004648       0x58 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
                 0x10004648                __wrap___aeabi_frsub
@@ -3172,7 +3172,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.__wrap___aeabi_ui2f
                 0x100046a0        0xa Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
                 0x100046a0                __wrap___aeabi_ui2f
- *fill*         0x100046aa        0x2 
+ *fill*         0x100046aa        0x2
  .text.__wrap___aeabi_i2f
                 0x100046ac       0x44 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_aeabi.S.obj
                 0x100046ac                __wrap___aeabi_i2f
@@ -3209,7 +3209,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x100048e0                __wrap___aeabi_memcpy
  .text.stdio_out_chars_no_crlf
                 0x100048ec        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- *fill*         0x100048fa        0x2 
+ *fill*         0x100048fa        0x2
  .text.stdio_out_chars_crlf
                 0x100048fc       0x80 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .text.stdio_stack_buffer_flush
@@ -3247,7 +3247,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.__wrap_puts
                 0x10004c14       0x1e Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
                 0x10004c14                __wrap_puts
- *fill*         0x10004c32        0x2 
+ *fill*         0x10004c32        0x2
  .text.__wrap_vprintf
                 0x10004c34       0x40 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
                 0x10004c34                __wrap_vprintf
@@ -3259,7 +3259,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10004c8c                stdio_init_all
  .text.resetd_init
                 0x10004c94        0x2 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
- *fill*         0x10004c96        0x2 
+ *fill*         0x10004c96        0x2
  .text.resetd_reset
                 0x10004c98        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .text.resetd_open
@@ -3293,7 +3293,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.stdio_usb_connected
                 0x1000501c        0xa Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
                 0x1000501c                stdio_usb_connected
- *fill*         0x10005026        0x2 
+ *fill*         0x10005026        0x2
  .text.stdio_usb_in_chars
                 0x10005028       0xc4 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
                 0x10005028                stdio_usb_in_chars
@@ -3316,7 +3316,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.flash_get_unique_id
                 0x100052ec       0x46 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
                 0x100052ec                flash_get_unique_id
- *fill*         0x10005332        0x2 
+ *fill*         0x10005332        0x2
  .text.hw_endpoint_get_by_addr
                 0x10005334       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .text._hw_endpoint_alloc
@@ -3367,7 +3367,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10005744        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .text.invoke_class_control
                 0x10005750       0x1a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- *fill*         0x1000576a        0x2 
+ *fill*         0x1000576a        0x2
  .text.process_set_config
                 0x1000576c      0x178 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .text.process_get_descriptor
@@ -3387,14 +3387,14 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.usbd_defer_func
                 0x10005ac0       0x2a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
                 0x10005ac0                usbd_defer_func
- *fill*         0x10005aea        0x2 
+ *fill*         0x10005aea        0x2
  .text.usbd_edpt_open
                 0x10005aec       0x34 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
                 0x10005aec                usbd_edpt_open
  .text.usbd_open_edpt_pair
                 0x10005b20       0x62 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
                 0x10005b20                usbd_open_edpt_pair
- *fill*         0x10005b82        0x2 
+ *fill*         0x10005b82        0x2
  .text.usbd_edpt_claim
                 0x10005b84       0x28 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
                 0x10005b84                usbd_edpt_claim
@@ -3440,7 +3440,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x1000636c                usbd_control_xfer_cb
  .text._prep_out_transaction
                 0x10006438       0x4a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
- *fill*         0x10006482        0x2 
+ *fill*         0x10006482        0x2
  .text.tud_cdc_n_connected
                 0x10006484       0x44 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/class/cdc/cdc_device.c.obj
                 0x10006484                tud_cdc_n_connected
@@ -3543,7 +3543,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.tu_fifo_set_overwritable
                 0x10007248       0x46 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/common/tusb_fifo.c.obj
                 0x10007248                tu_fifo_set_overwritable
- *fill*         0x1000728e        0x2 
+ *fill*         0x1000728e        0x2
  .text._pio_can_add_program_at_offset
                 0x10007290       0x3c Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
  .text._pio_find_offset_for_program
@@ -3563,7 +3563,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10007580      0x140 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
  .text.i2c_read_blocking_internal
                 0x100076c0       0xe6 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
- *fill*         0x100077a6        0x2 
+ *fill*         0x100077a6        0x2
  .text.i2c_set_baudrate
                 0x100077a8       0xf0 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
                 0x100077a8                i2c_set_baudrate
@@ -3579,7 +3579,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text.i2c_read_blocking_until
                 0x10007920       0x3e Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
                 0x10007920                i2c_read_blocking_until
- *fill*         0x1000795e        0x2 
+ *fill*         0x1000795e        0x2
  .text._Z25critical_power_operations5tools19satellite_functions
                 0x10007960       0x18 Flight_Software/lib/libmain.a(main.cpp.obj)
                 0x10007960                critical_power_operations(tools, satellite_functions)
@@ -3605,7 +3605,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text._ZN8neopixel8urgb_u32Ehhh
                 0x10007b98        0xa Flight_Software/lib/libneopixel.a(neopixel.cpp.obj)
                 0x10007b98                neopixel::urgb_u32(unsigned char, unsigned char, unsigned char)
- *fill*         0x10007ba2        0x2 
+ *fill*         0x10007ba2        0x2
  .text._ZN9pysquaredC2E8neopixel
                 0x10007ba4      0x25c Flight_Software/lib/libpysquared.a(pysquared.cpp.obj)
                 0x10007ba4                pysquared::pysquared(neopixel)
@@ -3624,7 +3624,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .text._ZN15LSM303AGR_ACCEL9_reg_readEP8i2c_insthhPhh
                 0x10007ef6       0x48 Flight_Software/lib/liblsm303agr.a(LSM303AGR.cpp.obj)
                 0x10007ef6                LSM303AGR_ACCEL::_reg_read(i2c_inst*, unsigned char, unsigned char, unsigned char*, unsigned char)
- *fill*         0x10007f3e        0x2 
+ *fill*         0x10007f3e        0x2
  .text._ZN15LSM303AGR_ACCEL4initEv
                 0x10007f40       0x44 Flight_Software/lib/liblsm303agr.a(LSM303AGR.cpp.obj)
                 0x10007f40                LSM303AGR_ACCEL::init()
@@ -3651,7 +3651,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x100082b4        0x6 Flight_Software/lib/libtools.a(tools.cpp.obj)
                 0x100082b4                tools::tools(bool, char const*)
                 0x100082b4                tools::tools(bool, char const*)
- *fill*         0x100082ba        0x2 
+ *fill*         0x100082ba        0x2
  .text._ZN5tools11debug_printEPKc
                 0x100082bc       0x98 Flight_Software/lib/libtools.a(tools.cpp.obj)
                 0x100082bc                tools::debug_print(char const*)
@@ -4006,7 +4006,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  *(.fini)
  .fini          0x10011ca0        0x4 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
                 0x10011ca0                _fini
- *fill*         0x10011ca4        0x4 
+ *fill*         0x10011ca4        0x4
  .fini.__stub   0x10011ca8      0x1a0 linker stubs
  *crtbegin.o(.ctors)
  *crtbegin?.o(.ctors)
@@ -4041,83 +4041,83 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  *(EXCLUDE_FILE(*libm.a: *libc.a:*lib_a-mem*.o *libgcc.a:) .rodata*)
  .rodata._Z21generate_blink_pio_smP8pio_hw_tjjjf.str1.4
                 0x10011e48       0x29 Flight_Software/boot/CMakeFiles/boot.dir/boot.cpp.obj
- *fill*         0x10011e71        0x3 
+ *fill*         0x10011e71        0x3
  .rodata.main.str1.4
                 0x10011e74       0x56 Flight_Software/boot/CMakeFiles/boot.dir/boot.cpp.obj
- *fill*         0x10011eca        0x2 
+ *fill*         0x10011eca        0x2
  .rodata._ZL13blink_program
                 0x10011ecc        0x6 Flight_Software/boot/CMakeFiles/boot.dir/boot.cpp.obj
- *fill*         0x10011ed2        0x2 
+ *fill*         0x10011ed2        0x2
  .rodata._ZL16neopixel_program
                 0x10011ed4        0x6 Flight_Software/boot/CMakeFiles/boot.dir/boot.cpp.obj
- *fill*         0x10011eda        0x2 
+ *fill*         0x10011eda        0x2
  .rodata._ZL26blink_program_instructions
                 0x10011edc       0x28 Flight_Software/boot/CMakeFiles/boot.dir/boot.cpp.obj
  .rodata._ZL29neopixel_program_instructions
                 0x10011f04        0x8 Flight_Software/boot/CMakeFiles/boot.dir/boot.cpp.obj
  .rodata.spin_lock_claim_unused.str1.4
                 0x10011f0c       0x1b Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- *fill*         0x10011f27        0x1 
+ *fill*         0x10011f27        0x1
  .rodata.make_branch.str1.4
                 0x10011f28       0x89 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x10011fb1        0x3 
+ *fill*         0x10011fb1        0x3
  .rodata.insert_branch_and_link.str1.4
                 0x10011fb4       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  .rodata.irq_set_exclusive_handler.str1.4
                 0x10011fc4       0x36 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x10011ffa        0x2 
+ *fill*         0x10011ffa        0x2
  .rodata.irq_add_shared_handler.str1.4
                 0x10011ffc       0xd9 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x100120d5        0x3 
+ *fill*         0x100120d5        0x3
  .rodata.irq_remove_handler.str1.4
                 0x100120d8       0x3a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x10012112        0x2 
+ *fill*         0x10012112        0x2
  .rodata.irq_add_tail_to_free_list.str1.4
                 0x10012114       0x3a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x1001214e        0x2 
+ *fill*         0x1001214e        0x2
  .rodata.user_irq_claim_unused.str1.4
                 0x10012150       0x1b Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x1001216b        0x1 
+ *fill*         0x1001216b        0x1
  .rodata.__func__.0
                 0x1001216c       0x1a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x10012186        0x2 
+ *fill*         0x10012186        0x2
  .rodata.__func__.1
                 0x10012188       0x17 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x1001219f        0x1 
+ *fill*         0x1001219f        0x1
  .rodata.__func__.2
                 0x100121a0       0x13 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x100121b3        0x1 
+ *fill*         0x100121b3        0x1
  .rodata.__func__.3
                 0x100121b4        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
  .rodata.__func__.4
                 0x100121c0        0xf Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x100121cf        0x1 
+ *fill*         0x100121cf        0x1
  .rodata.__func__.5
                 0x100121d0       0x17 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x100121e7        0x1 
+ *fill*         0x100121e7        0x1
  .rodata.__func__.6
                 0x100121e8       0x1a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq.c.obj
- *fill*         0x10012202        0x2 
+ *fill*         0x10012202        0x2
  .rodata.str1.4
                 0x10012204      0x125 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
- *fill*         0x10012329        0x3 
+ *fill*         0x10012329        0x3
  .rodata.__func__.1
                 0x1001232c        0xb Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
- *fill*         0x10012337        0x1 
+ *fill*         0x10012337        0x1
  .rodata.__func__.3
                 0x10012338       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
  .rodata.__func__.4
                 0x10012350       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
- *fill*         0x10012365        0x3 
+ *fill*         0x10012365        0x3
  .rodata.repeating_timer_callback.str1.4
                 0x10012368       0x67 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100123cf        0x1 
+ *fill*         0x100123cf        0x1
  .rodata.timer_pool_entry_comparator.str1.4
                 0x100123d0       0x22 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100123f2        0x2 
+ *fill*         0x100123f2        0x2
  .rodata.ph_add_child_node.str1.4
                 0x100123f4       0xb2 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100124a6        0x2 
+ *fill*         0x100124a6        0x2
  .rodata.add_alarm_under_lock.str1.4
                 0x100124a8       0x28 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
                                  0x2b (size before relaxing)
@@ -4126,44 +4126,44 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                                 0x118 (size before relaxing)
  .rodata.alarm_pool_get_default.str1.4
                 0x10012568       0x21 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x10012589        0x3 
+ *fill*         0x10012589        0x3
  .rodata.alarm_pool_cancel_alarm.str1.4
                 0x1001258c       0x27 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100125b3        0x1 
+ *fill*         0x100125b3        0x1
  .rodata.sleep_until.str1.4
                 0x100125b4       0x4d Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x10012601        0x3 
+ *fill*         0x10012601        0x3
  .rodata.__func__.1
                 0x10012604       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
  .rodata.__func__.10
                 0x1001261c       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x10012631        0x3 
+ *fill*         0x10012631        0x3
  .rodata.__func__.11
                 0x10012634       0x1a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x1001264e        0x2 
+ *fill*         0x1001264e        0x2
  .rodata.__func__.12
                 0x10012650        0xa Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x1001265a        0x2 
+ *fill*         0x1001265a        0x2
  .rodata.__func__.3
                 0x1001265c       0x17 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x10012673        0x1 
+ *fill*         0x10012673        0x1
  .rodata.__func__.4
                 0x10012674       0x12 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x10012686        0x2 
+ *fill*         0x10012686        0x2
  .rodata.__func__.5
                 0x10012688        0xd Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x10012695        0x3 
+ *fill*         0x10012695        0x3
  .rodata.__func__.6
                 0x10012698       0x12 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100126aa        0x2 
+ *fill*         0x100126aa        0x2
  .rodata.__func__.7
                 0x100126ac        0xf Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100126bb        0x1 
+ *fill*         0x100126bb        0x1
  .rodata.__func__.8
                 0x100126bc        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
  .rodata.__func__.9
                 0x100126c8       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x100126dd        0x3 
+ *fill*         0x100126dd        0x3
  .rodata.at_the_end_of_time
                 0x100126e0        0x8 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
                 0x100126e0                at_the_end_of_time
@@ -4171,61 +4171,61 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x100126e8       0x22 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .rodata.busy_wait_us.str1.4
                 0x1001270a       0x7d Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- *fill*         0x1001270a        0x2 
+ *fill*         0x1001270a        0x2
  .rodata.hardware_alarm_set_target.str1.4
                 0x1001270c       0x81 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- *fill*         0x1001278d        0x3 
+ *fill*         0x1001278d        0x3
  .rodata.__func__.0
                 0x10012790       0x1a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
- *fill*         0x100127aa        0x2 
+ *fill*         0x100127aa        0x2
  .rodata.__func__.1
                 0x100127ac       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_timer/timer.c.obj
  .rodata.ph_add_child_node.str1.4
                 0x100127c1       0xb2 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
- *fill*         0x100127c1        0x3 
+ *fill*         0x100127c1        0x3
  .rodata.ph_remove_any_head.str1.4
                 0x100127c4       0xa8 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
                                  0xbc (size before relaxing)
  .rodata.ph_remove_and_free_node.str1.4
                 0x1001286c       0x1e Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
                                  0x26 (size before relaxing)
- *fill*         0x1001288a        0x2 
+ *fill*         0x1001288a        0x2
  .rodata.__func__.0
                 0x1001288c       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
  .rodata.__func__.1
                 0x100128a4       0x13 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
- *fill*         0x100128b7        0x1 
+ *fill*         0x100128b7        0x1
  .rodata.__func__.2
                 0x100128b8       0x12 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
- *fill*         0x100128ca        0x2 
+ *fill*         0x100128ca        0x2
  .rodata.__func__.3
                 0x100128cc        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_util/pheap.c.obj
  .rodata.clock_configure.str1.4
                 0x100128d8       0x73 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
- *fill*         0x1001294b        0x1 
+ *fill*         0x1001294b        0x1
  .rodata.__func__.1
                 0x1001294c       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_clocks/clocks.c.obj
  .rodata.pll_init.str1.4
                 0x1001295c      0x140 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
  .rodata.__func__.0
                 0x10012a9c        0x9 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pll/pll.c.obj
- *fill*         0x10012aa5        0x3 
+ *fill*         0x10012aa5        0x3
  .rodata.__assert_func.str1.4
                 0x10012aa8       0x3f Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
                                  0x43 (size before relaxing)
- *fill*         0x10012ae7        0x1 
+ *fill*         0x10012ae7        0x1
  .rodata.runtime_init.str1.4
                 0x10012ae8       0x7d Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- *fill*         0x10012b65        0x3 
+ *fill*         0x10012b65        0x3
  .rodata.panic.str1.4
                 0x10012b68       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
                                  0x12 (size before relaxing)
  .rodata.__func__.2
                 0x10012b78        0xd Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_runtime/runtime.c.obj
- *fill*         0x10012b85        0x3 
+ *fill*         0x10012b85        0x3
  .rodata._ftoa.str1.4
                 0x10012b88       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
- *fill*         0x10012b9d        0x3 
+ *fill*         0x10012b9d        0x3
  .rodata._vsnprintf
                 0x10012ba0      0x1e0 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_printf/printf.c.obj
  .rodata.pow10.0
@@ -4237,13 +4237,13 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata.__aeabi_float_init.str1.4
                 0x10012e9c       0x96 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
                                  0x9a (size before relaxing)
- *fill*         0x10012f32        0x2 
+ *fill*         0x10012f32        0x2
  .rodata.__func__.0
                 0x10012f34       0x13 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_float/float_init_rom.c.obj
- *fill*         0x10012f47        0x1 
+ *fill*         0x10012f47        0x1
  .rodata.__wrap_malloc.str1.4
                 0x10012f48        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_malloc/pico_malloc.c.obj
- *fill*         0x10012f56        0x2 
+ *fill*         0x10012f56        0x2
  .rodata.str1.4
                 0x10012f58       0x88 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_standard_link/binary_info.c.obj
  .rodata.__bi_44
@@ -4258,10 +4258,10 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10013010       0x7d Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
  .rodata.__func__.3
                 0x10013010       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- *fill*         0x10013025        0x3 
+ *fill*         0x10013025        0x3
  .rodata.crlf_str.2
                 0x10013028        0x2 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio/stdio.c.obj
- *fill*         0x1001302a        0x2 
+ *fill*         0x1001302a        0x2
  .rodata._resetd_driver
                 0x1001302c       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/reset_interface.c.obj
  .rodata.low_priority_worker_irq.str1.4
@@ -4269,69 +4269,69 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata.stdio_usb_init.str1.4
                 0x10013044       0x61 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
                                  0x69 (size before relaxing)
- *fill*         0x100130a5        0x3 
+ *fill*         0x100130a5        0x3
  .rodata.str1.4
                 0x100130a8       0x13 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- *fill*         0x100130bb        0x1 
+ *fill*         0x100130bb        0x1
  .rodata.__bi_182.0
                 0x100130bc        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
  .rodata.__func__.1
                 0x100130c8        0xf Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- *fill*         0x100130d7        0x1 
+ *fill*         0x100130d7        0x1
  .rodata.__func__.3
                 0x100130d8       0x15 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj
- *fill*         0x100130ed        0x3 
+ *fill*         0x100130ed        0x3
  .rodata.str1.4
                 0x100130f0       0x2a Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- *fill*         0x1001311a        0x2 
+ *fill*         0x1001311a        0x2
  .rodata.usbd_desc_cfg
                 0x1001311c       0x54 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .rodata.usbd_desc_device
                 0x10013170       0x12 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
- *fill*         0x10013182        0x2 
+ *fill*         0x10013182        0x2
  .rodata.usbd_desc_str
                 0x10013184       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj
  .rodata.pico_get_unique_board_id_string.str1.4
                 0x1001319c       0x69 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
- *fill*         0x10013205        0x3 
+ *fill*         0x10013205        0x3
  .rodata.__func__.0
                 0x10013208       0x20 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_unique_id/unique_id.c.obj
  .rodata.str1.4
                 0x10013228      0x176 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
- *fill*         0x1001339e        0x2 
+ *fill*         0x1001339e        0x2
  .rodata.__func__.0
                 0x100133a0        0xd Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_flash/flash.c.obj
- *fill*         0x100133ad        0x3 
+ *fill*         0x100133ad        0x3
  .rodata._hw_endpoint_alloc.str1.4
                 0x100133b0       0xd1 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- *fill*         0x10013481        0x3 
+ *fill*         0x10013481        0x3
  .rodata.str1.4
                 0x10013484       0x14 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .rodata.dcd_int_enable.str1.4
                 0x10013498        0xc Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .rodata.__func__.0
                 0x100134a4        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- *fill*         0x100134b2        0x2 
+ *fill*         0x100134b2        0x2
  .rodata.__func__.1
                 0x100134b4        0xe Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- *fill*         0x100134c2        0x2 
+ *fill*         0x100134c2        0x2
  .rodata.__func__.3
                 0x100134c4       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
  .rodata.__func__.5
                 0x100134d4        0xf Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- *fill*         0x100134e3        0x1 
+ *fill*         0x100134e3        0x1
  .rodata.__func__.6
                 0x100134e4       0x13 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- *fill*         0x100134f7        0x1 
+ *fill*         0x100134f7        0x1
  .rodata.__func__.7
                 0x100134f8        0x9 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj
- *fill*         0x10013501        0x3 
+ *fill*         0x10013501        0x3
  .rodata.str1.4
                 0x10013504      0x103 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- *fill*         0x10013607        0x1 
+ *fill*         0x10013607        0x1
  .rodata.__func__.0
                 0x10013608        0xf Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj
- *fill*         0x10013617        0x1 
+ *fill*         0x10013617        0x1
  .rodata.process_get_descriptor
                 0x10013618       0x40 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .rodata.process_control_request
@@ -4342,55 +4342,55 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x100136a4       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .rodata._pio_find_offset_for_program.str1.4
                 0x100136bc       0x85 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
- *fill*         0x10013741        0x3 
+ *fill*         0x10013741        0x3
  .rodata._pio_add_program_at_offset.str1.4
                 0x10013744       0x11 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
- *fill*         0x10013755        0x3 
+ *fill*         0x10013755        0x3
  .rodata.__func__.1
                 0x10013758       0x1d Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_pio/pio.c.obj
- *fill*         0x10013775        0x3 
+ *fill*         0x10013775        0x3
  .rodata.i2c_set_baudrate.str1.4
                 0x10013778       0x79 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
- *fill*         0x100137f1        0x3 
+ *fill*         0x100137f1        0x3
  .rodata.__func__.0
                 0x100137f4       0x11 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
- *fill*         0x10013805        0x3 
+ *fill*         0x10013805        0x3
  .rodata._Z25critical_power_operations5tools19satellite_functions.str1.4
                 0x10013808       0x26 Flight_Software/lib/libmain.a(main.cpp.obj)
- *fill*         0x1001382e        0x2 
+ *fill*         0x1001382e        0x2
  .rodata._Z20low_power_operations5tools8neopixel19satellite_functions.str1.4
                 0x10013830       0x21 Flight_Software/lib/libmain.a(main.cpp.obj)
- *fill*         0x10013851        0x3 
+ *fill*         0x10013851        0x3
  .rodata._Z23normal_power_operations5tools8neopixel19satellite_functions.str1.4
                 0x10013854       0x24 Flight_Software/lib/libmain.a(main.cpp.obj)
  .rodata._Z12main_program8neopixel.str1.4
                 0x10013878       0x5a Flight_Software/lib/libmain.a(main.cpp.obj)
- *fill*         0x100138d2        0x2 
+ *fill*         0x100138d2        0x2
  .rodata._ZN9pysquaredC2E8neopixel.str1.4
                 0x100138d4      0x233 Flight_Software/lib/libpysquared.a(pysquared.cpp.obj)
- *fill*         0x10013b07        0x1 
+ *fill*         0x10013b07        0x1
  .rodata._ZN9pysquared12check_rebootEv.str1.4
                 0x10013b08       0x15 Flight_Software/lib/libpysquared.a(pysquared.cpp.obj)
- *fill*         0x10013b1d        0x3 
+ *fill*         0x10013b1d        0x3
  .rodata._ZN19satellite_functionsC2E9pysquared.str1.4
                 0x10013b20       0x26 Flight_Software/lib/libfunctions.a(functions.cpp.obj)
- *fill*         0x10013b46        0x2 
+ *fill*         0x10013b46        0x2
  .rodata._ZN15LSM303AGR_ACCEL4initEv.str1.4
                 0x10013b48       0x2f Flight_Software/lib/liblsm303agr.a(LSM303AGR.cpp.obj)
- *fill*         0x10013b77        0x1 
+ *fill*         0x10013b77        0x1
  .rodata._ZN13LSM303AGR_MAG4initEv.str1.4
                 0x10013b78       0x2d Flight_Software/lib/liblsm303agr.a(LSM303AGR.cpp.obj)
- *fill*         0x10013ba5        0x3 
+ *fill*         0x10013ba5        0x3
  .rodata._ZN5tools11debug_printEPKc.str1.4
                 0x10013ba8       0x48 Flight_Software/lib/libtools.a(tools.cpp.obj)
                                  0xc8 (size before relaxing)
  .rodata._ZN5tools8i2c_scanEP8i2c_inst.str1.4
                 0x10013bf0       0x52 Flight_Software/lib/libtools.a(tools.cpp.obj)
                                  0x5a (size before relaxing)
- *fill*         0x10013c42        0x2 
+ *fill*         0x10013c42        0x2
  .rodata._ZNKSt13bad_exception4whatEv.str1.4
                 0x10013c44       0x13 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(eh_exception.o)
- *fill*         0x10013c57        0x1 
+ *fill*         0x10013c57        0x1
  .rodata._ZTIN10__cxxabiv115__forced_unwindE
                 0x10013c58        0x8 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(eh_exception.o)
                 0x10013c58                typeinfo for __cxxabiv1::__forced_unwind
@@ -4412,11 +4412,11 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata._ZTSSt13bad_exception
                 0x10013cc0       0x12 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(eh_exception.o)
                 0x10013cc0                typeinfo name for std::bad_exception
- *fill*         0x10013cd2        0x2 
+ *fill*         0x10013cd2        0x2
  .rodata._ZTSSt9exception
                 0x10013cd4        0xd c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(eh_exception.o)
                 0x10013cd4                typeinfo name for std::exception
- *fill*         0x10013ce1        0x3 
+ *fill*         0x10013ce1        0x3
  .rodata._ZTVSt13bad_exception
                 0x10013ce4       0x14 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(eh_exception.o)
                 0x10013ce4                vtable for std::bad_exception
@@ -4424,17 +4424,17 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x10013cf8       0x34 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(eh_personality.o)
  .rodata._ZTSv  0x10013d2c        0x2 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(fundamental_type_info.o)
                 0x10013d2c                typeinfo name for void
- *fill*         0x10013d2e        0x2 
+ *fill*         0x10013d2e        0x2
  .rodata._ZTSc  0x10013d30        0x2 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(fundamental_type_info.o)
                 0x10013d30                typeinfo name for char
- *fill*         0x10013d32        0x2 
+ *fill*         0x10013d32        0x2
  .rodata._ZTSPKc
                 0x10013d34        0x4 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(fundamental_type_info.o)
                 0x10013d34                typeinfo name for char const*
  .rodata._ZTSDn
                 0x10013d38        0x3 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(fundamental_type_info.o)
                 0x10013d38                typeinfo name for decltype(nullptr)
- *fill*         0x10013d3b        0x1 
+ *fill*         0x10013d3b        0x1
  .rodata._ZTIDn
                 0x10013d3c        0x8 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(fundamental_type_info.o)
                 0x10013d3c                typeinfo for decltype(nullptr)
@@ -4469,7 +4469,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata._ZTSN10__cxxabiv120__si_class_type_infoE
                 0x10013e18       0x25 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(si_class_type_info.o)
                 0x10013e18                typeinfo name for __cxxabiv1::__si_class_type_info
- *fill*         0x10013e3d        0x3 
+ *fill*         0x10013e3d        0x3
  .rodata._ZTVN10__cxxabiv120__si_class_type_infoE
                 0x10013e40       0x2c c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(si_class_type_info.o)
                 0x10013e40                vtable for __cxxabiv1::__si_class_type_info
@@ -4479,7 +4479,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata._ZTSSt9type_info
                 0x10013e74        0xd c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(tinfo.o)
                 0x10013e74                typeinfo name for std::type_info
- *fill*         0x10013e81        0x3 
+ *fill*         0x10013e81        0x3
  .rodata._ZN9__gnu_cxx27__verbose_terminate_handlerEv.str1.4
                 0x10013e84       0x94 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(vterminate.o)
  .rodata._ZTIN10__cxxabiv117__class_type_infoE
@@ -4488,7 +4488,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata._ZTSN10__cxxabiv117__class_type_infoE
                 0x10013f24       0x22 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(class_type_info.o)
                 0x10013f24                typeinfo name for __cxxabiv1::__class_type_info
- *fill*         0x10013f46        0x2 
+ *fill*         0x10013f46        0x2
  .rodata._ZTVN10__cxxabiv117__class_type_infoE
                 0x10013f48       0x2c c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(class_type_info.o)
                 0x10013f48                vtable for __cxxabiv1::__class_type_info
@@ -4496,14 +4496,14 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata.str1.4
                 0x100150b8      0x88d c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(cp-demangle.o)
                                 0x8e9 (size before relaxing)
- *fill*         0x10015945        0x3 
+ *fill*         0x10015945        0x3
  .rodata._ZTIN10__cxxabiv117__pbase_type_infoE
                 0x10015948        0xc c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(pbase_type_info.o)
                 0x10015948                typeinfo for __cxxabiv1::__pbase_type_info
  .rodata._ZTSN10__cxxabiv117__pbase_type_infoE
                 0x10015954       0x22 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(pbase_type_info.o)
                 0x10015954                typeinfo name for __cxxabiv1::__pbase_type_info
- *fill*         0x10015976        0x2 
+ *fill*         0x10015976        0x2
  .rodata._ZTVN10__cxxabiv117__pbase_type_infoE
                 0x10015978       0x24 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(pbase_type_info.o)
                 0x10015978                vtable for __cxxabiv1::__pbase_type_info
@@ -4517,7 +4517,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata._ZTSN10__cxxabiv129__pointer_to_member_type_infoE
                 0x100159b4       0x2e c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(pmem_type_info.o)
                 0x100159b4                typeinfo name for __cxxabiv1::__pointer_to_member_type_info
- *fill*         0x100159e2        0x2 
+ *fill*         0x100159e2        0x2
  .rodata._ZNKSt10bad_typeid4whatEv.str1.4
                 0x100159e4       0x10 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(bad_typeid.o)
  .rodata._ZTISt10bad_typeid
@@ -4526,7 +4526,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .rodata._ZTSSt10bad_typeid
                 0x10015a00        0xf c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(bad_typeid.o)
                 0x10015a00                typeinfo name for std::bad_typeid
- *fill*         0x10015a0f        0x1 
+ *fill*         0x10015a0f        0x1
  .rodata._ZTVSt10bad_typeid
                 0x10015a10       0x14 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libstdc++.a(bad_typeid.o)
                 0x10015a10                vtable for std::bad_typeid
@@ -4853,7 +4853,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .time_critical.mutex_try_enter
                 0x200000c0       0x46 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
                 0x200000c0                mutex_try_enter
- *fill*         0x20000106        0x2 
+ *fill*         0x20000106        0x2
  .time_critical.mutex_enter_block_until
                 0x20000108       0x8c Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_sync/mutex.c.obj
                 0x20000108                mutex_enter_block_until
@@ -4957,7 +4957,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x20001a20        0xc c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp\libgcc.a(pr-support.o)
                 0x20001a20                _Unwind_GetDataRelBase
                 0x20001a26                _Unwind_GetTextRelBase
- *fill*         0x20001a2c        0x4 
+ *fill*         0x20001a2c        0x4
  .text.unlikely.__stub
                 0x20001a30       0xc0 linker stubs
                 0x20001af0                . = ALIGN (0x4)
@@ -4966,7 +4966,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  *(.data*)
  .data.striped_spin_lock_num
                 0x20001af0        0x1 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_sync/sync.c.obj
- *fill*         0x20001af1        0x3 
+ *fill*         0x20001af1        0x3
  .data          0x20001af4       0x48 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_irq/irq_handler_chain.S.obj
                 0x20001af4                irq_handler_chain_slots
                 0x20001b24                irq_handler_chain_first_slot
@@ -4975,7 +4975,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x20001b3c       0x18 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
  .data.default_alarm_pool_heap
                 0x20001b54       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/common/pico_time/time.c.obj
- *fill*         0x20001b64        0xc 
+ *fill*         0x20001b64        0xc
  .data.aeabi_bits_funcs
                 0x20001b70       0x10 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj
                 0x20001b70                aeabi_bits_funcs
@@ -4995,7 +4995,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x20001bb0                _usbd_qdef
  .data._usbd_rhport
                 0x20001bcc        0x1 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- *fill*         0x20001bcd        0x3 
+ *fill*         0x20001bcd        0x3
  .data.i2c0_inst
                 0x20001bd0        0x8 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/src/rp2_common/hardware_i2c/i2c.c.obj
                 0x20001bd0                i2c0_inst
@@ -5011,7 +5011,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .data._impure_ptr
                 0x20001be8        0x4 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
                 0x20001be8                _impure_ptr
- *fill*         0x20001bec        0x4 
+ *fill*         0x20001bec        0x4
  .data.impure_data
                 0x20001bf0      0x428 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-impure.o)
  .data.__malloc_av_
@@ -5100,15 +5100,15 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
  .bss.__lock___malloc_recursive_mutex
                 0x20002590        0x1 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
                 0x20002590                __lock___malloc_recursive_mutex
- *fill*         0x20002591        0x3 
+ *fill*         0x20002591        0x3
  .bss.__lock___sfp_recursive_mutex
                 0x20002594        0x1 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
                 0x20002594                __lock___sfp_recursive_mutex
- *fill*         0x20002595        0x3 
+ *fill*         0x20002595        0x3
  .bss.__lock___sinit_recursive_mutex
                 0x20002598        0x1 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-lock.o)
                 0x20002598                __lock___sinit_recursive_mutex
- *fill*         0x20002599        0x3 
+ *fill*         0x20002599        0x3
  .bss.__malloc_current_mallinfo
                 0x2000259c       0x28 c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.1/../../../../arm-none-eabi/lib/thumb/v6-m/nofp\libg.a(lib_a-mallocr.o)
                 0x2000259c                __malloc_current_mallinfo
@@ -5133,7 +5133,7 @@ LOAD c:/progra~1/raspbe~1/picosd~1.1/gcc-ar~1/bin/../lib/gcc/arm-none-eabi/10.3.
                 0x200028b8       0x40 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd_control.c.obj
  .bss._usbd_dev
                 0x200028f8       0x53 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
- *fill*         0x2000294b        0x1 
+ *fill*         0x2000294b        0x1
  .bss._usbd_mutex
                 0x2000294c        0x4 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj
  .bss._usbd_q   0x20002950        0x4 Flight_Software/boot/CMakeFiles/boot.dir/C_/Program_Files/Raspberry_Pi/Pico_SDK_v1.5.1/pico-sdk/lib/tinyusb/src/device/usbd.c.obj

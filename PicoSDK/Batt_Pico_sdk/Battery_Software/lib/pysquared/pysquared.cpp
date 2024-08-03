@@ -1,6 +1,6 @@
 #include "pysquared.h"
                                                       //instantiate tools class in pysquared
-pysquared::pysquared(neopixel neo) : 
+pysquared::pysquared(neopixel neo) :
 battery_power(i2c0, 0x40), solar_power(i2c0, 0x44), internal_temp(i2c0, 0x4f), led_driver(i2c0, 0x56), i2c_mux(i2c0,0x77),
 adc(i2c0,0x48),
 t(true, "[PYSQUARED] "){
@@ -36,7 +36,7 @@ t(true, "[PYSQUARED] "){
         gpio_init(d0_pin);
         gpio_set_dir(d0_pin, GPIO_IN);
 
-        gpio_put(i2c_reset_pin, true); 
+        gpio_put(i2c_reset_pin, true);
         t.debug_print("GPIO Pins Initialized!\n");
         /*
             PWM init
@@ -80,7 +80,7 @@ t(true, "[PYSQUARED] "){
         /*
             I2C Multiplexer init
         */
-        try{ 
+        try{
             i2c_mux.configure();
             i2c_mux.scanChannels();
             t.debug_print("I2C Multiplexer Initialized!\n");
@@ -92,7 +92,7 @@ t(true, "[PYSQUARED] "){
         /*
             Thermocouple
         */
-        try{ 
+        try{
             adc.configure();
             t.debug_print("Thermocouple ADC Initialized!\n");
         }

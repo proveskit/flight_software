@@ -14599,7 +14599,7 @@ Disassembly of section .data:
 20000bf8:	100009b1 	.word	0x100009b1
 
 20000bfc <default_alarm_pool>:
-20000bfc:	20000c14 00000000 20000cb0 2000135c     ... ....... \.. 
+20000bfc:	20000c14 00000000 20000cb0 2000135c     ... ....... \..
 	...
 
 20000c14 <default_alarm_pool_heap>:

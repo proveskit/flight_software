@@ -1,19 +1,19 @@
 {
-	"configurations" : 
+	"configurations" :
 	[
 		{
-			"directories" : 
+			"directories" :
 			[
 				{
 					"build" : ".",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						1,
 						2,
 						100
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -23,7 +23,7 @@
 				{
 					"build" : "pico_extras",
 					"jsonFile" : "directory-pico_extras-Debug-03a8f867d2027a8bde0f.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -33,7 +33,7 @@
 				},
 				{
 					"build" : "pico-sdk",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						3,
 						4,
@@ -41,7 +41,7 @@
 						99
 					],
 					"jsonFile" : "directory-pico-sdk-Debug-30ffbbb9e3f5de61907d.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -52,7 +52,7 @@
 				{
 					"build" : "pico-sdk/tools",
 					"jsonFile" : "directory-pico-sdk.tools-Debug-ff3d4962162e61b69af1.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -62,14 +62,14 @@
 				},
 				{
 					"build" : "pico-sdk/src",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						5,
 						17,
 						78
 					],
 					"jsonFile" : "directory-pico-sdk.src-Debug-0af67e4ebc294af6d4bc.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -79,7 +79,7 @@
 				},
 				{
 					"build" : "pico-sdk/src/common",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						6,
 						7,
@@ -94,7 +94,7 @@
 						16
 					],
 					"jsonFile" : "directory-pico-sdk.src.common-Debug-da1c993d95c151ced2ff.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -105,7 +105,7 @@
 				{
 					"build" : "pico-sdk/src/common/boot_picoboot",
 					"jsonFile" : "directory-pico-sdk.src.common.boot_picoboot-Debug-491412d7649467c06d82.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -116,7 +116,7 @@
 				{
 					"build" : "pico-sdk/src/common/boot_uf2",
 					"jsonFile" : "directory-pico-sdk.src.common.boot_uf2-Debug-af33f7f8565bf0a5d240.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -127,7 +127,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_base",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_base-Debug-5e3537dfb8ca274a0c98.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -138,7 +138,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_usb_reset_interface",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_usb_reset_interface-Debug-9f73e32ccad9a356d429.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -149,7 +149,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_bit_ops",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_bit_ops-Debug-44ed208847fddec34684.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -160,7 +160,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_binary_info",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_binary_info-Debug-08da01163871f26e30a9.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -171,7 +171,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_divider",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_divider-Debug-9e3d79d97f9adf5fa17b.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -182,7 +182,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_sync",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_sync-Debug-d183a493c713fca40550.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -193,7 +193,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_time",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_time-Debug-a0d1257b62f46716f42a.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -204,7 +204,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_util",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_util-Debug-38bf53fa7fad1d8aa0e2.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -215,7 +215,7 @@
 				{
 					"build" : "pico-sdk/src/common/pico_stdlib",
 					"jsonFile" : "directory-pico-sdk.src.common.pico_stdlib-Debug-725cd457fcc018be8064.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -225,7 +225,7 @@
 				},
 				{
 					"build" : "pico-sdk/src/rp2_common",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						18,
 						19,
@@ -287,7 +287,7 @@
 						77
 					],
 					"jsonFile" : "directory-pico-sdk.src.rp2_common-Debug-58cd3b37f137517e1a74.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -298,7 +298,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_base",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_base-Debug-04801c7fd755bfe4a34d.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -309,7 +309,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_claim",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_claim-Debug-5ec16d4df05a97308e10.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -320,7 +320,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_adc",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_adc-Debug-8901880eb2ecf8bf621f.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -331,7 +331,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_clocks",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_clocks-Debug-44d1eb88e38e5f40474d.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -342,7 +342,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_dma",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_dma-Debug-9c6157e8b705867eeffe.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -353,7 +353,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_divider",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_divider-Debug-973058d422b753d3463c.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -364,7 +364,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_exception",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_exception-Debug-05c3a18271ff3a213096.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -375,7 +375,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_flash",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_flash-Debug-0bd2fe79d1d717dd7317.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -386,7 +386,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_gpio",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_gpio-Debug-89517df90e469909f5d0.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -397,7 +397,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_i2c",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_i2c-Debug-e70bae0d387ae888a644.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -408,7 +408,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_interp",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_interp-Debug-4fb324d2aa07518e54b2.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -419,7 +419,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_irq",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_irq-Debug-1821d76733205e10d956.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -430,7 +430,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_pio",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_pio-Debug-c2241bc1ba8be583549e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -441,7 +441,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_pll",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_pll-Debug-3a89f6c399ee9b17db54.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -452,7 +452,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_pwm",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_pwm-Debug-206f07fa035bc8d9d78d.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -463,7 +463,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_resets",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_resets-Debug-f362816cc322f344b253.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -474,7 +474,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_rtc",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_rtc-Debug-a1bafed191980fd8503b.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -485,7 +485,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_spi",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_spi-Debug-40509efb49369470b910.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -496,7 +496,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_sync",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_sync-Debug-7f2fd0930a38a4aa1584.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -507,7 +507,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_timer",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_timer-Debug-04ab9f48acce67fad0b9.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -518,7 +518,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_uart",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_uart-Debug-75af17459aa28f660244.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -529,7 +529,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_vreg",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_vreg-Debug-90a9642205476549e56f.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -540,7 +540,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_watchdog",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_watchdog-Debug-760287553494960104e1.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -551,7 +551,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/hardware_xosc",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.hardware_xosc-Debug-595b395409e5ddc0e7a5.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -562,7 +562,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_bootrom",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_bootrom-Debug-2daaa9fc26c680e439c7.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -573,7 +573,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_platform",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_platform-Debug-966c9a3b72e854242f60.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -584,14 +584,14 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/boot_stage2",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.boot_stage2-Debug-fc6d6d9f8349fe88170c.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 17,
 					"projectIndex" : 0,
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						5,
 						6,
@@ -601,7 +601,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_bootsel_via_double_reset",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_bootsel_via_double_reset-Debug-cbd782cdfa9baf1315fc.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -612,7 +612,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_multicore",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_multicore-Debug-00c87a50cd2ec4067b33.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -623,7 +623,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_unique_id",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_unique_id-Debug-fb5c09e223ff9ff43dd7.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -634,7 +634,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_bit_ops",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_bit_ops-Debug-4a489faad5a058de1aaa.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -645,7 +645,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_divider",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_divider-Debug-6b3aa8a7d371fb5b4f1e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -656,7 +656,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_double",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_double-Debug-714c4fdaad2f1b1d9f9c.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -667,7 +667,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_int64_ops",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_int64_ops-Debug-cd34048aaf35207b8189.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -678,7 +678,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_flash",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_flash-Debug-0fb1543b8bafa7c89ddb.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -689,7 +689,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_float",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_float-Debug-0786a76ff316dfd8a4e8.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -700,7 +700,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_mem_ops",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_mem_ops-Debug-7a7988386f677b89b84c.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -711,7 +711,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_malloc",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_malloc-Debug-5d48d9737fa85c560b85.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -722,7 +722,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_printf",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_printf-Debug-e7e3c67dcbbfdbf47164.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -733,7 +733,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_rand",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_rand-Debug-dfa78addb36e2c6f7202.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -744,7 +744,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_stdio",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio-Debug-1726c16c8f18de1db664.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -755,7 +755,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_stdio_semihosting",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio_semihosting-Debug-fff08fdad790305bc0b6.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -766,7 +766,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_stdio_uart",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio_uart-Debug-4a152e781aa634491937.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -777,7 +777,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/cmsis",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.cmsis-Debug-099bab2767e2f8aa5e7c.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -788,14 +788,14 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/tinyusb",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.tinyusb-Debug-3a846c4d72e2e81996ff.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 17,
 					"projectIndex" : 0,
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/tinyusb",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						25,
 						26
@@ -804,7 +804,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_stdio_usb",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdio_usb-Debug-b55db71d47a7b9aa8be0.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -815,7 +815,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_i2c_slave",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_i2c_slave-Debug-1ee68af5f2905c9a7635.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -826,7 +826,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_async_context",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_async_context-Debug-5180a23375e1c2a9eb09.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -837,7 +837,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_btstack",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_btstack-Debug-c515ba59dc3c0423b3d9.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -847,19 +847,19 @@
 				},
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_cyw43_driver",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						68
 					],
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_cyw43_driver-Debug-398ab0b80f4ad8ce3fee.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 17,
 					"projectIndex" : 0,
 					"source" : "C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/pico_cyw43_driver",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						8
 					]
@@ -867,7 +867,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_cyw43_driver/cybt_shared_bus",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_cyw43_driver.cybt_shared_bus-Debug-92061627cc6ee3626e12.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -878,7 +878,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_lwip",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_lwip-Debug-33ec27979d14b65adadd.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -889,7 +889,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_cyw43_arch",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_cyw43_arch-Debug-138e1adac1a23831905e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -900,7 +900,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_mbedtls",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_mbedtls-Debug-ee2924ab51dd4312fe20.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -911,7 +911,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_stdlib",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_stdlib-Debug-d340c4c50ad5ea0e0d20.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -922,7 +922,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_cxx_options",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_cxx_options-Debug-4b0052e290a89048996e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -933,7 +933,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_standard_link",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_standard_link-Debug-5675d57bccf40dadc96e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -943,12 +943,12 @@
 				},
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_fix",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						76
 					],
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_fix-Debug-a6ee261600b935811322.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -959,7 +959,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_fix/rp2040_usb_device_enumeration",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_fix.rp2040_usb_device_enumeration-Debug-717a6ac50752fc12fb76.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -970,7 +970,7 @@
 				{
 					"build" : "pico-sdk/src/rp2_common/pico_runtime",
 					"jsonFile" : "directory-pico-sdk.src.rp2_common.pico_runtime-Debug-b6e1f434ddff53c01e3e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -980,13 +980,13 @@
 				},
 				{
 					"build" : "pico-sdk/src/rp2040",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						79,
 						80
 					],
 					"jsonFile" : "directory-pico-sdk.src.rp2040-Debug-109299b8fcdcc4613583.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -997,7 +997,7 @@
 				{
 					"build" : "pico-sdk/src/rp2040/hardware_regs",
 					"jsonFile" : "directory-pico-sdk.src.rp2040.hardware_regs-Debug-3f5eba62ed8ef28f4e90.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1008,7 +1008,7 @@
 				{
 					"build" : "pico-sdk/src/rp2040/hardware_structs",
 					"jsonFile" : "directory-pico-sdk.src.rp2040.hardware_structs-Debug-9a9328f48be75062a871.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1018,13 +1018,13 @@
 				},
 				{
 					"build" : "pico_extras/src",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						82,
 						88
 					],
 					"jsonFile" : "directory-pico_extras.src-Debug-563eb009e36ecda64a5d.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1034,7 +1034,7 @@
 				},
 				{
 					"build" : "pico_extras/src/common",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						83,
 						84,
@@ -1043,7 +1043,7 @@
 						87
 					],
 					"jsonFile" : "directory-pico_extras.src.common-Debug-86032658bf8fff800fe4.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1054,7 +1054,7 @@
 				{
 					"build" : "pico_extras/src/common/pico_audio",
 					"jsonFile" : "directory-pico_extras.src.common.pico_audio-Debug-78bdf8c5450997e65842.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1065,14 +1065,14 @@
 				{
 					"build" : "pico_extras/src/common/pico_scanvideo",
 					"jsonFile" : "directory-pico_extras.src.common.pico_scanvideo-Debug-6aeb9a51208500299896.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 82,
 					"projectIndex" : 0,
 					"source" : "C:/Users/nicol/Documents/Pico-v1.5.1/pico-extras/src/common/pico_scanvideo",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						21
 					]
@@ -1080,7 +1080,7 @@
 				{
 					"build" : "pico_extras/src/common/pico_sd_card",
 					"jsonFile" : "directory-pico_extras.src.common.pico_sd_card-Debug-cbd81b46cfcb94b24077.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1091,7 +1091,7 @@
 				{
 					"build" : "pico_extras/src/common/pico_util_buffer",
 					"jsonFile" : "directory-pico_extras.src.common.pico_util_buffer-Debug-196860988be7a2d01109.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1102,7 +1102,7 @@
 				{
 					"build" : "pico_extras/src/common/platypus",
 					"jsonFile" : "directory-pico_extras.src.common.platypus-Debug-34282db04f0e0fecd0d5.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1112,7 +1112,7 @@
 				},
 				{
 					"build" : "pico_extras/src/rp2_common",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						89,
 						90,
@@ -1126,7 +1126,7 @@
 						98
 					],
 					"jsonFile" : "directory-pico_extras.src.rp2_common-Debug-290476359fb0056fd79d.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1137,7 +1137,7 @@
 				{
 					"build" : "pico_extras/src/rp2_common/hardware_rosc",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.hardware_rosc-Debug-bf990b80bf285824e625.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1148,7 +1148,7 @@
 				{
 					"build" : "pico_extras/src/rp2_common/pico_sleep",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.pico_sleep-Debug-d8a234a54115b864ea4e.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1159,14 +1159,14 @@
 				{
 					"build" : "pico_extras/src/rp2_common/pico_audio_i2s",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.pico_audio_i2s-Debug-e55582b57b21b826c624.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 88,
 					"projectIndex" : 0,
 					"source" : "C:/Users/nicol/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_i2s",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						17
 					]
@@ -1174,14 +1174,14 @@
 				{
 					"build" : "pico_extras/src/rp2_common/pico_audio_pwm",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.pico_audio_pwm-Debug-92a98d138e2b72b9d305.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 88,
 					"projectIndex" : 0,
 					"source" : "C:/Users/nicol/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_pwm",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						18
 					]
@@ -1189,14 +1189,14 @@
 				{
 					"build" : "pico_extras/src/rp2_common/pico_audio_spdif",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.pico_audio_spdif-Debug-c1180274048c43d9e94f.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 88,
 					"projectIndex" : 0,
 					"source" : "C:/Users/nicol/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_audio_spdif",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						19
 					]
@@ -1204,14 +1204,14 @@
 				{
 					"build" : "pico_extras/src/rp2_common/pico_sd_card",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.pico_sd_card-Debug-5a07b9f01d25c73d6f6f.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 88,
 					"projectIndex" : 0,
 					"source" : "C:/Users/nicol/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_sd_card",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						22
 					]
@@ -1219,14 +1219,14 @@
 				{
 					"build" : "pico_extras/src/rp2_common/pico_scanvideo_dpi",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.pico_scanvideo_dpi-Debug-3e65221315b088cbb45c.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 88,
 					"projectIndex" : 0,
 					"source" : "C:/Users/nicol/Documents/Pico-v1.5.1/pico-extras/src/rp2_common/pico_scanvideo_dpi",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						20
 					]
@@ -1234,7 +1234,7 @@
 				{
 					"build" : "pico_extras/src/rp2_common/usb_common",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.usb_common-Debug-c42bb0a164791690d1db.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1245,7 +1245,7 @@
 				{
 					"build" : "pico_extras/src/rp2_common/usb_device",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.usb_device-Debug-a5e1bb2441a4c83e175a.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1256,7 +1256,7 @@
 				{
 					"build" : "pico_extras/src/rp2_common/usb_device_msc",
 					"jsonFile" : "directory-pico_extras.src.rp2_common.usb_device_msc-Debug-86afe34548e16359cd49.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1267,7 +1267,7 @@
 				{
 					"build" : "pico-sdk/docs",
 					"jsonFile" : "directory-pico-sdk.docs-Debug-fb5e965f727459c2db4a.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1277,13 +1277,13 @@
 				},
 				{
 					"build" : "Battery_Software",
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						101,
 						102
 					],
 					"jsonFile" : "directory-Battery_Software-Debug-b1941ea8fa886e7073b4.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
@@ -1294,14 +1294,14 @@
 				{
 					"build" : "Battery_Software/lib",
 					"jsonFile" : "directory-Battery_Software.lib-Debug-88cbb02eb352dccc07a1.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 100,
 					"projectIndex" : 0,
 					"source" : "Battery_Software/lib",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						0,
 						1,
@@ -1322,14 +1322,14 @@
 				{
 					"build" : "Battery_Software/boot",
 					"jsonFile" : "directory-Battery_Software.boot-Debug-0a90e6a69f307c54aaff.json",
-					"minimumCMakeVersion" : 
+					"minimumCMakeVersion" :
 					{
 						"string" : "3.13"
 					},
 					"parentIndex" : 100,
 					"projectIndex" : 0,
 					"source" : "Battery_Software/boot",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						2,
 						3,
@@ -1338,14 +1338,14 @@
 				}
 			],
 			"name" : "Debug",
-			"projects" : 
+			"projects" :
 			[
 				{
-					"childIndexes" : 
+					"childIndexes" :
 					[
 						1
 					],
-					"directoryIndexes" : 
+					"directoryIndexes" :
 					[
 						0,
 						2,
@@ -1451,7 +1451,7 @@
 						102
 					],
 					"name" : "pico_sdk",
-					"targetIndexes" : 
+					"targetIndexes" :
 					[
 						0,
 						1,
@@ -1485,7 +1485,7 @@
 					]
 				},
 				{
-					"directoryIndexes" : 
+					"directoryIndexes" :
 					[
 						1
 					],
@@ -1493,7 +1493,7 @@
 					"parentIndex" : 0
 				}
 			],
-			"targets" : 
+			"targets" :
 			[
 				{
 					"directoryIndex" : 101,
@@ -1702,12 +1702,12 @@
 		}
 	],
 	"kind" : "codemodel",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/Batt_Pico_sdk/build",
 		"source" : "C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/Batt_Pico_sdk"
 	},
-	"version" : 
+	"version" :
 	{
 		"major" : 2,
 		"minor" : 4

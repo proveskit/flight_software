@@ -61,7 +61,7 @@ public:
     LSM303AGR_ACCEL(i2c_inst_t *i2c=i2c_default, uint8_t ADDR_ACCEL=0x19);
 
     void init();
-    void raw_acceleration(int16_t *data);    
+    void raw_acceleration(int16_t *data);
     float* acceleration();
 
 };
@@ -109,7 +109,7 @@ public:
     LSM303AGR_MAG(i2c_inst_t *i2c=i2c_default, uint8_t ADDR_MAG=0x1E);
 
     void init();
-    void raw_mag(float *mag_data);    
+    void raw_mag(float *mag_data);
     void calibrated_mag(float *mag_data);
 
 };

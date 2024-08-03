@@ -24,7 +24,7 @@ int main() {
     uint neo_pwr = 25;                                                              //power pin for neopixel
     uint neo_data = 24;                                                             //data pin for neopixel
     uint sm_firm = 0;                                                               //state machine for led blinking
-    uint sm_wdt = 1;                                                                //state machine for watchdog timer 
+    uint sm_wdt = 1;                                                                //state machine for watchdog timer
     uint sm_neo = 2;                                                                //state machine for neopixel color changing
     uint loiter_time = 10;                                                          //time to wait until executing code
     generate_blink_pio_sm(pio_0,sm_firm,firm_active,offset_blink,pio_freq);         //call method to generate a state machine for blinking the firmware LED
@@ -40,7 +40,7 @@ int main() {
         sleep_ms(500);
         neo.put_pixel(neo.urgb_u32(0x00,0x00,0x00));
         sleep_ms(500);
-        neo.put_pixel(neo.urgb_u32(0xFF,0x00,0xFF)); 
+        neo.put_pixel(neo.urgb_u32(0xFF,0x00,0xFF));
         printf("Entering main in %d seconds!\n",loiter_time-i-1);
     }
     main_program(neo);                                                              //enter main program
@@ -54,4 +54,3 @@ void generate_blink_pio_sm(PIO pio, uint sm, uint pin, uint offset, float clk_fr
     printf("pio state machine generated for pin %d \n", pin);
     return;
 }
-

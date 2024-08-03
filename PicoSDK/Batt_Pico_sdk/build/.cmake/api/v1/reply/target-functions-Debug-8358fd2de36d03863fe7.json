@@ -1,15 +1,15 @@
 {
 	"archive" : {},
-	"artifacts" : 
+	"artifacts" :
 	[
 		{
 			"path" : "Battery_Software/lib/libfunctions.a"
 		}
 	],
 	"backtrace" : 1,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_library",
 			"add_dependencies",
@@ -18,14 +18,14 @@
 			"add_compile_options",
 			"target_include_directories"
 		],
-		"files" : 
+		"files" :
 		[
 			"Battery_Software/lib/CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt",
 			"CMakeLists.txt",
 			"Battery_Software/CMakeLists.txt"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 0
@@ -83,10 +83,10 @@
 			}
 		]
 	},
-	"compileGroups" : 
+	"compileGroups" :
 	[
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -127,7 +127,7 @@
 					"fragment" : "-std=gnu++17"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 5,
@@ -278,7 +278,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 10,
@@ -446,22 +446,22 @@
 				}
 			],
 			"language" : "CXX",
-			"languageStandard" : 
+			"languageStandard" :
 			{
-				"backtraces" : 
+				"backtraces" :
 				[
 					1
 				],
 				"standard" : "17"
 			},
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				1,
 				43
 			]
 		},
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -494,7 +494,7 @@
 					"fragment" : "-std=gnu11"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 5,
@@ -645,7 +645,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 10,
@@ -813,15 +813,15 @@
 				}
 			],
 			"language" : "C",
-			"languageStandard" : 
+			"languageStandard" :
 			{
-				"backtraces" : 
+				"backtraces" :
 				[
 					1
 				],
 				"standard" : "11"
 			},
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				2,
 				3,
@@ -861,7 +861,7 @@
 			]
 		},
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -891,7 +891,7 @@
 					"fragment" : "-fdata-sections"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 5,
@@ -1042,7 +1042,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 10,
@@ -1210,7 +1210,7 @@
 				}
 			],
 			"language" : "ASM",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				8,
 				25,
@@ -1226,7 +1226,7 @@
 			]
 		}
 	],
-	"dependencies" : 
+	"dependencies" :
 	[
 		{
 			"backtrace" : 4,
@@ -1280,23 +1280,23 @@
 	"id" : "functions::@1dd6f3c5c400387d9aa6",
 	"name" : "functions",
 	"nameOnDisk" : "libfunctions.a",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "Battery_Software/lib",
 		"source" : "Battery_Software/lib"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "Header Files",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0
 			]
 		},
 		{
 			"name" : "Source Files",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				1,
 				2,
@@ -1339,7 +1339,7 @@
 		},
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				8,
 				25,
@@ -1355,7 +1355,7 @@
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 1,

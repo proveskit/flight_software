@@ -70,4 +70,3 @@ static inline pio_sm_config blink_program_get_default_config(uint offset) {
     }
 
 #endif
-

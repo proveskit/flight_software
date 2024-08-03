@@ -1,9 +1,9 @@
 {
 	"kind" : "toolchains",
-	"toolchains" : 
+	"toolchains" :
 	[
 		{
-			"compiler" : 
+			"compiler" :
 			{
 				"id" : "GNU",
 				"implicit" : {},
@@ -11,7 +11,7 @@
 				"version" : ""
 			},
 			"language" : "ASM",
-			"sourceFileExtensions" : 
+			"sourceFileExtensions" :
 			[
 				"s",
 				"S",
@@ -19,18 +19,18 @@
 			]
 		},
 		{
-			"compiler" : 
+			"compiler" :
 			{
 				"id" : "GNU",
-				"implicit" : 
+				"implicit" :
 				{
-					"includeDirectories" : 
+					"includeDirectories" :
 					[
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/include",
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/include-fixed",
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/arm-none-eabi/include"
 					],
-					"linkDirectories" : 
+					"linkDirectories" :
 					[
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp",
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/arm-none-eabi/lib/thumb/v6-m/nofp",
@@ -45,19 +45,19 @@
 				"version" : "10.3.1"
 			},
 			"language" : "C",
-			"sourceFileExtensions" : 
+			"sourceFileExtensions" :
 			[
 				"c",
 				"m"
 			]
 		},
 		{
-			"compiler" : 
+			"compiler" :
 			{
 				"id" : "GNU",
-				"implicit" : 
+				"implicit" :
 				{
-					"includeDirectories" : 
+					"includeDirectories" :
 					[
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/arm-none-eabi/include/c++/10.3.1",
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/arm-none-eabi/include/c++/10.3.1/arm-none-eabi/thumb/v6-m/nofp",
@@ -66,7 +66,7 @@
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/include-fixed",
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/arm-none-eabi/include"
 					],
-					"linkDirectories" : 
+					"linkDirectories" :
 					[
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp",
 						"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/gcc-arm-none-eabi/arm-none-eabi/lib/thumb/v6-m/nofp",
@@ -81,7 +81,7 @@
 				"version" : "10.3.1"
 			},
 			"language" : "CXX",
-			"sourceFileExtensions" : 
+			"sourceFileExtensions" :
 			[
 				"C",
 				"M",
@@ -97,7 +97,7 @@
 			]
 		}
 	],
-	"version" : 
+	"version" :
 	{
 		"major" : 1,
 		"minor" : 0

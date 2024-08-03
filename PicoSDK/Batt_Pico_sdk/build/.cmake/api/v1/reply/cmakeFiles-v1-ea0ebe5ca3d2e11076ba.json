@@ -1,5 +1,5 @@
 {
-	"inputs" : 
+	"inputs" :
 	[
 		{
 			"path" : "CMakeLists.txt"
@@ -910,12 +910,12 @@
 		}
 	],
 	"kind" : "cmakeFiles",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/Batt_Pico_sdk/build",
 		"source" : "C:/Users/nicol/OneDrive/Documents/GitHub/proves-tests/Batt_Pico_sdk"
 	},
-	"version" : 
+	"version" :
 	{
 		"major" : 1,
 		"minor" : 0

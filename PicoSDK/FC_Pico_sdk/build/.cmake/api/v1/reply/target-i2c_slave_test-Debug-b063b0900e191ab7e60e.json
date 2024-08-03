@@ -1,14 +1,14 @@
 {
-	"artifacts" : 
+	"artifacts" :
 	[
 		{
 			"path" : "i2c_tests/slave/i2c_slave_test.elf"
 		}
 	],
 	"backtrace" : 1,
-	"backtraceGraph" : 
+	"backtraceGraph" :
 	{
-		"commands" : 
+		"commands" :
 		[
 			"add_executable",
 			"target_link_libraries",
@@ -18,14 +18,14 @@
 			"target_compile_definitions",
 			"pico_add_extra_outputs"
 		],
-		"files" : 
+		"files" :
 		[
 			"i2c_tests/slave/CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common/boot_stage2/CMakeLists.txt",
 			"CMakeLists.txt",
 			"C:/Program Files/Raspberry Pi/Pico SDK v1.5.1/pico-sdk/src/rp2_common.cmake"
 		],
-		"nodes" : 
+		"nodes" :
 		[
 			{
 				"file" : 0
@@ -92,10 +92,10 @@
 			}
 		]
 	},
-	"compileGroups" : 
+	"compileGroups" :
 	[
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -128,7 +128,7 @@
 					"fragment" : "-std=gnu11"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 2,
@@ -307,7 +307,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 2,
@@ -499,15 +499,15 @@
 				}
 			],
 			"language" : "C",
-			"languageStandard" : 
+			"languageStandard" :
 			{
-				"backtraces" : 
+				"backtraces" :
 				[
 					1
 				],
 				"standard" : "11"
 			},
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0,
 				1,
@@ -572,7 +572,7 @@
 			]
 		},
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -602,7 +602,7 @@
 					"fragment" : "-fdata-sections"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 2,
@@ -781,7 +781,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 2,
@@ -973,7 +973,7 @@
 				}
 			],
 			"language" : "ASM",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				7,
 				24,
@@ -989,7 +989,7 @@
 			]
 		},
 		{
-			"compileCommandFragments" : 
+			"compileCommandFragments" :
 			[
 				{
 					"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g"
@@ -1030,7 +1030,7 @@
 					"fragment" : "-std=gnu++17"
 				}
 			],
-			"defines" : 
+			"defines" :
 			[
 				{
 					"backtrace" : 2,
@@ -1209,7 +1209,7 @@
 					"define" : "PICO_USE_BLOCKED_RAM=0"
 				}
 			],
-			"includes" : 
+			"includes" :
 			[
 				{
 					"backtrace" : 2,
@@ -1401,21 +1401,21 @@
 				}
 			],
 			"language" : "CXX",
-			"languageStandard" : 
+			"languageStandard" :
 			{
-				"backtraces" : 
+				"backtraces" :
 				[
 					1
 				],
 				"standard" : "17"
 			},
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				42
 			]
 		}
 	],
-	"dependencies" : 
+	"dependencies" :
 	[
 		{
 			"backtrace" : 6,
@@ -1423,9 +1423,9 @@
 		}
 	],
 	"id" : "i2c_slave_test::@8cc3cc284dc1ce01bfd9",
-	"link" : 
+	"link" :
 	{
-		"commandFragments" : 
+		"commandFragments" :
 		[
 			{
 				"fragment" : "-mcpu=cortex-m0plus -mthumb -Og -g",
@@ -2260,16 +2260,16 @@
 	},
 	"name" : "i2c_slave_test",
 	"nameOnDisk" : "i2c_slave_test.elf",
-	"paths" : 
+	"paths" :
 	{
 		"build" : "i2c_tests/slave",
 		"source" : "i2c_tests/slave"
 	},
-	"sourceGroups" : 
+	"sourceGroups" :
 	[
 		{
 			"name" : "Source Files",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				0,
 				1,
@@ -2336,7 +2336,7 @@
 		},
 		{
 			"name" : "",
-			"sourceIndexes" : 
+			"sourceIndexes" :
 			[
 				7,
 				24,
@@ -2352,7 +2352,7 @@
 			]
 		}
 	],
-	"sources" : 
+	"sources" :
 	[
 		{
 			"backtrace" : 1,
