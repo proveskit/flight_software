@@ -13,7 +13,7 @@ dependencies = [
     "freezegun>=1.5.2",
     "pre-commit==4.2.0",
     "pyright[nodejs]==1.1.404",
-    "pytest==8.4.1",
+    "pytest==9.0.3",
     "hypothesis==6.136.7",
 ]
 
